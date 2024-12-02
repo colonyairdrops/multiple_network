@@ -3,7 +3,7 @@
 - Hardware Requirements (8GB RAM, MultiCore, 100GB SSD)
 
 ## Prerequisite:
-- Bind your wallet at [MultipleNetwork](https://www.app.multiple.cc/#/signup) to obtain a Unique Account Identification Code.
+- Bind your wallet at [MultipleNetwork](https://www.app.multiple.cc/#/signup?inviteCode=j5NmewLi) to obtain a Unique Account Identification Code.
 
 ## Step by Step Guide
 1. Download File
