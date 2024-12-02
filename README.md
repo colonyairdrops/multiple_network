@@ -42,11 +42,11 @@ chmod -R 777 multipleforlinux
 ```
 6. Run Node
 ```bash
-nohup ./multiple-node > output.log 2>&1 &
-```
-```bash
 cd multipleforlinux/
 ``` 
+```bash
+nohup ./multiple-node > output.log 2>&1 &
+```
 - Bind the unique account identifier. After registering an account on Multiple Network’s official website, an unique account identification code will be generated for your record. 
 - Input the unique account identification code and PIN code in the command:
 ```bash
