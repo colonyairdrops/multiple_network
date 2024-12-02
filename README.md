@@ -14,6 +14,9 @@ wget https://cdn.app.multiple.cc/client/linux/x64/multipleforlinux.tar
 ```bash
 tar -xvf multipleforlinux.tar
 ```
+```bash
+cd multipleforlinux/
+```
 3. Grant permissions
 ```bash
 chmod +x ./multiple-cli
@@ -23,11 +26,14 @@ chmod +x ./multiple-node
 ```
 4. Configure
 ```bash
-source /etc/profile
+nano /etc/profile
 ```
 - Configure the required parameters:
 ```bash
-PATH=$PATH:/multipleforlinux/
+PATH=$PATH:/root/multipleforlinux/
+```
+```bash
+source /etc/profile
 ```
 5. Grant permissions
 - Return to the root directory and grant permissions:
@@ -38,6 +44,9 @@ chmod -R 777 multipleforlinux
 ```bash
 nohup ./multiple-node > output.log 2>&1 &
 ```
+```bash
+cd multipleforlinux/
+``` 
 - Bind the unique account identifier. After registering an account on Multiple Network’s official website, an unique account identification code will be generated for your record. 
 - Input the unique account identification code and PIN code in the command:
 ```bash
