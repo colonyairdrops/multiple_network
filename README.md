@@ -1,6 +1,7 @@
 # Multiple_network Node by @colonyAirdrops
 
 - Hardware Requirements (8GB RAM, MultiCore, 100GB SSD)
+- Video: [Youtube](https://youtu.be/nhOD-h3Pjaw)
 
 ## Prerequisite:
 - Bind your wallet at [MultipleNetwork](https://www.app.multiple.cc/#/signup?inviteCode=j5NmewLi) to obtain a Unique Account Identification Code.
